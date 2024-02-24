@@ -1,3 +1,5 @@
+#If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)?
+
 miles = 10 / 1.61
 seconds = 42 + (42 * 60)
 mil_per_sec = seconds / miles
